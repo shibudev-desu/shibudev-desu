@@ -6,13 +6,13 @@
   </ul>
 </div>
 
-## Hello, this is the one and only Leandro
+## Hello, this is the one and only Leandro Ramos
 
 - 🔭 Student, focused solely on BackEnd and AI
 - 📖 Learning Python
 - 📫 sh1bulramos@gmail.com
 
-### Tecnologies i know
+### Technologies i know
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
