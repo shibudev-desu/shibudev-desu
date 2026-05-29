@@ -6,10 +6,10 @@
   </ul>
 </div>
 
-## Hello, this is the one and only Leandro Ramos
+## Welcome, i'm Leandro Ramos
 
-- 🔭 Student, focused solely on BackEnd and AI
-- 📖 Learning Python
+- 🔭 Student, focused on BackEnd and AI
+- 📖 Learning Python and ML
 - 📫 sh1bulramos@gmail.com
 
 ### Technologies i know
